@@ -1,0 +1,27 @@
+{
+  "name": "foodsafety.tw-website",
+  "version": "0.0.1",
+  "description": "Foodsafety website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoodSafetyTW/foodsafety.tw-website.git"
+  },
+  "author": "rukeith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FoodSafetyTW/foodsafety.tw-website/issues"
+  },
+  "homepage": "https://github.com/FoodSafetyTW/foodsafety.tw-website#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "koa": "^1.2.0",
+    "mocha": "^2.4.5",
+    "pug": "^2.0.0-alpha7",
+    "react": "^15.0.2",
+    "webpack": "^1.13.0"
+  }
+}
